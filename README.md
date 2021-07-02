@@ -34,6 +34,7 @@ SO THAT I can manage my time effectively
 * [W3 Schools](https://www.w3schools.com/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
 * [Momentjs](https://momentjs.com/)
+* [JQuery](https://api.jquery.com/)
 
 ## Author
 

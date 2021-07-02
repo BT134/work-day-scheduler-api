@@ -18,7 +18,7 @@ SO THAT I can manage my time effectively
 
 >The following animation demonstrates the application functionality:
 
-><img src="assets\images\05-third-party-apis-homework-demo.gif" alt="A user clicks on slots on the color-coded calendar and edits the events.">
+><img src=".assets\images\05-third-party-apis-homework-demo.gif" alt="A user clicks on slots on the color-coded calendar and edits the events.">
 
 ## Installation
 
